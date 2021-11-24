@@ -1,0 +1,1236 @@
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csprojAssemblyReference.cache
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.baml
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.g.cs
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.cache
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.lref
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.exe
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.deps.json
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.json
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.dev.json
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.g.resources
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfoInputs.cache
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfo.cs
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CoreCompileInputs.cache
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CopyComplete
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\projects\temp\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.genruntimeconfig.cache
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\temp\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.exe
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.deps.json
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.json
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.dev.json
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.AssemblyReference.cache
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.baml
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.g.cs
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.cache
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.lref
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.g.resources
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfoInputs.cache
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfo.cs
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CoreCompileInputs.cache
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CopyComplete
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.genruntimeconfig.cache
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TLSharp.Core.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\bin\Debug\net5.0-windows\TeleSharp.TL.dll
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.g.cs
+C:\Users\elaydahan\Desktop\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.baml
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.exe
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.deps.json
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.json
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.dev.json
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TLSharp.Core.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\TeleSharp.TL.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csprojAssemblyReference.cache
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.baml
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.g.cs
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.g.cs
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.cache
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.lref
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.baml
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.g.resources
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfoInputs.cache
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfo.cs
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CoreCompileInputs.cache
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CopyComplete
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\projects\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.genruntimeconfig.cache
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.deps.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.dev.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.Development.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.exe
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.exe
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.deps.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.dev.json
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Cake.Powershell.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Markdig.Signed.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeKit.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Namotion.Reflection.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NJsonSchema.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Management.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Net.Http.WinHttpHandler.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Private.ServiceModel.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Reflection.Context.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Win32.TaskScheduler.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLSharp.Core.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TeleSharp.TL.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeMapping.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.pdb
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.pdb
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.AssemblyReference.cache
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.baml
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.g.cs
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.g.cs
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.cache
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.lref
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.baml
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.g.resources
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfoInputs.cache
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfo.cs
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CoreCompileInputs.cache
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CopyComplete
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\elaydahan\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.genruntimeconfig.cache
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.Development.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.deps.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.dev.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.exe
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.exe
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.deps.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.dev.json
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Cake.Powershell.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Markdig.Signed.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeKit.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Namotion.Reflection.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NJsonSchema.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.Odbc.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Management.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Net.Http.WinHttpHandler.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Private.ServiceModel.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Reflection.Context.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Win32.TaskScheduler.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLSharp.Core.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TeleSharp.TL.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeMapping.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\mi.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\miutils.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.pdb
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.pdb
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.baml
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.g.cs
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.g.cs
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.cache
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.lref
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.baml
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.g.resources
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfo.cs
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CopyComplete
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\Desktop\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.genruntimeconfig.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.Development.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.deps.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.dev.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.exe
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.exe
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.deps.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.dev.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Cake.Powershell.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Markdig.Signed.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeKit.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Namotion.Reflection.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NJsonSchema.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Management.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Net.Http.WinHttpHandler.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Private.ServiceModel.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Reflection.Context.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Win32.TaskScheduler.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLSharp.Core.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TeleSharp.TL.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeMapping.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\mi.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\miutils.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.pdb
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.pdb
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.AssemblyReference.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.baml
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.g.cs
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.g.cs
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.lref
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.baml
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.g.resources
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfoInputs.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfo.cs
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CoreCompileInputs.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CopyComplete
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.genruntimeconfig.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\App.baml
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.Development.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.deps.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.runtimeconfig.dev.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.exe
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.exe
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.deps.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.runtimeconfig.dev.json
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Cake.Powershell.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.AvalonDock.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Xceed.Wpf.Toolkit.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Markdig.Signed.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.ApplicationInsights.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.WindowsServices.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeKit.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Namotion.Reflection.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NJsonSchema.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OOXML.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXml4Net.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.OpenXmlFormats.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\NPOI.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ICSharpCode.SharpZipLib.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ComponentModel.Composition.Registration.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.Odbc.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.OleDb.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.AccountManagement.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.DirectoryServices.Protocols.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.IO.Ports.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Management.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Net.Http.WinHttpHandler.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Private.ServiceModel.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Reflection.Context.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Duplex.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Http.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.NetTcp.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Security.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceModel.Syndication.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\Microsoft.Win32.TaskScheduler.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLSharp.Core.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TeleSharp.TL.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MimeMapping.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\pl\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\ru\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.Management.Infrastructure.CimCmdlets.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x64\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win10-x86\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x64\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win7-x86\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x64\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win8-x86\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x64\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.Native.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\lib\netstandard1.6\Microsoft.Management.Infrastructure.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\mi.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win81-x86\native\miutils.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Diagnostics.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Management.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Commands.Utility.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.ConsoleHost.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.CoreCLR.Eventing.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.MarkdownRender.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libpsl-native.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libpsl-native.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libpsl-native.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libmi.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsl-native.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libpsrpclient.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libmi.dylib
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsl-native.dylib
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\native\libpsrpclient.dylib
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm\native\pwrshplugin.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\pwrshplugin.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\pwrshplugin.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\PowerShell.Core.Instrumentation.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\pwrshplugin.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.SDK.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.PowerShell.Security.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Management.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\Microsoft.WSMan.Runtime.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\freebsd\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Data.Odbc.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.AccountManagement.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.DirectoryServices.Protocols.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\linux\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\osx\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.IO.Ports.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\unix\lib\net5.0\System.Management.Automation.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\net5.0\System.Management.Automation.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Net.Http.WinHttpHandler.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.ServiceProcess.ServiceController.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\MessageScheduler.pdb
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\bin\Debug\net5.0-windows\TLFunctionalityLib.pdb
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.baml
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\DeliveryPage.g.cs
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.g.cs
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.g.cs
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.cache
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer_MarkupCompile.lref
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\App.baml
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\ListViewPage.baml
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\Pages\MainPage.baml
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.g.resources
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfoInputs.cache
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.AssemblyInfo.cs
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CoreCompileInputs.cache
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.CopyComplete
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\ref\TelegramDeliverer.dll
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.pdb
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.genruntimeconfig.cache
+C:\Users\USER\projects\TelegramProject\TelegramDeliverer\obj\Debug\net5.0-windows\TelegramDeliverer.csproj.AssemblyReference.cache

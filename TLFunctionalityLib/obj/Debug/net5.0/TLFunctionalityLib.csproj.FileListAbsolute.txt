@@ -1,0 +1,47 @@
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.deps.json
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfoInputs.cache
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfo.cs
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.csproj.CoreCompileInputs.cache
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.deps.json
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfo.cs
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\USER\Desktop\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.deps.json
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfoInputs.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfo.cs
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.csproj.CoreCompileInputs.cache
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\elaydahan\Desktop\latest version of telgram project\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.csproj.AssemblyReference.cache
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.deps.json
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\bin\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfoInputs.cache
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.AssemblyInfo.cs
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.csproj.CoreCompileInputs.cache
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.dll
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\ref\TLFunctionalityLib.dll
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.pdb
+C:\Users\USER\projects\TelegramProject\TLFunctionalityLib\obj\Debug\net5.0\TLFunctionalityLib.csproj.AssemblyReference.cache

@@ -1,0 +1,1 @@
+C:\Users\elaydahan\Desktop\TelegramProject\MessageQueueService\obj\Debug\MessageQueueService.csproj.CoreCompileInputs.cache
