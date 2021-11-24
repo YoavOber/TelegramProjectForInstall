@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TelegramUserDetails xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <PhoneNumber>+972*********</PhoneNumber>
-  <ApiAppID>-------</ApiAppID>
-  <ApiHASH>--------</ApiHASH>
+  <PhoneNumber>+972508643132</PhoneNumber>
+  <ApiAppID>15537852</ApiAppID>
+  <ApiHASH>eb89dad47d326df1a21ed96f86098f9b</ApiHASH>
 </TelegramUserDetails>
