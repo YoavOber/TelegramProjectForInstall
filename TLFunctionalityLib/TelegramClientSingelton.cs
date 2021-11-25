@@ -120,7 +120,7 @@ namespace TLFunctionalityLib
                 // user not found
                 return false;
 
-            if ((phoneNumber.Substring(0,2) == "55" || phoneNumber.Substring(0,3) == "+55") && phoneNumber.Length > 8)
+            if ((phoneNumber.Substring(0, 2) == "55" || phoneNumber.Substring(0, 3) == "+55") && phoneNumber.Length > 8)
             {
                 // Brazlian phone number
                 globalPhoneNumber = phoneNumber;
@@ -134,7 +134,7 @@ namespace TLFunctionalityLib
                 phoneNumber = phoneNumber.Substring(3);
 
             }
-            else if(phoneNumber.Substring(0, 3) == "972")
+            else if (phoneNumber.Substring(0, 3) == "972")
             {
                 globalPhoneNumber = phoneNumber;
             }
@@ -157,11 +157,11 @@ namespace TLFunctionalityLib
                 targetUser.Phone = "55" + phoneNumber;
 
 
-            
+
             var contact = contacts.Users
                 .Where(x => x.GetType() == typeof(TLUser))
                 .Cast<TLUser>()
-                .FirstOrDefault(o => o.Phone != null &&  o.Phone.Length > 5 && o.Phone.Substring(5) == phoneNumber);
+                .FirstOrDefault(o => o.Phone != null && o.Phone.Length > 5 && o.Phone.Substring(5) == phoneNumber);
 
             if (contact != null)
             {
@@ -175,7 +175,7 @@ namespace TLFunctionalityLib
                                   .Where(x => x.GetType() == typeof(TLUser))
                                   .Cast<TLUser>()
                                   .FirstOrDefault(o => o.Phone != null && o.Phone.Length > 5 && o.Phone.Substring(5) == phoneNumber);
-                
+
                 if (contact != null)
                 {
                     return await SendPrivateMessage(contact, message);
@@ -190,7 +190,7 @@ namespace TLFunctionalityLib
                 Phone = globalPhoneNumber,
                 FirstName = "איש קשר חדש",
                 LastName = ""
-            }); 
+            });
 
             var userList = await client.SendRequestAsync<TLImportedContacts>(requestImportContacts);
             var user = userList.Users.Cast<TLUser>().ToList().FirstOrDefault();
@@ -305,8 +305,8 @@ namespace TLFunctionalityLib
         public async Task<TLVector<TLAbsChat>> GetAllDialogs()
         {
             await Connect();
-            var chatTsk = (TLDialogs) await client.GetUserDialogsAsync();
-            //return x.Chats;
+            var result = await client.GetUserDialogsAsync();
+            var chatTsk = result as TLDialogsSlice;
             return chatTsk.Chats;
         }
 
@@ -348,7 +348,7 @@ namespace TLFunctionalityLib
 
                     await SendFile(message.mediaType, message.MediaPath, message.fileName, chat, message.MimeType);
                 }
-                await client.SendMessageAsync(new TLInputPeerChannel()
+                await client.SendMessageAsync(new TLInputPeerChannel
                 {
                     ChannelId = channelChat.Id,
                     AccessHash = channelChat.AccessHash.Value
@@ -392,12 +392,10 @@ namespace TLFunctionalityLib
             var absChannel = channel.AccessHash;
 
             TLInputChannel InputChannel = new TLInputChannel { ChannelId = channel.Id, AccessHash = channel.AccessHash.Value };
-
-
-
-
             int offset = 200;
-            var req = new TLRequestGetParticipants { Channel = InputChannel ,
+            var req = new TLRequestGetParticipants
+            {
+                Channel = InputChannel,
                 Filter = new TLChannelParticipantsRecent() { },
                 Offset = 0,
                 Limit = 200
