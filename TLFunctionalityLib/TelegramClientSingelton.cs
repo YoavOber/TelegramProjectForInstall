@@ -306,7 +306,9 @@ namespace TLFunctionalityLib
         {
             await Connect();
             var result = await client.GetUserDialogsAsync();
-            var chatTsk = result as TLDialogsSlice;
+            var chatTsk = (TLDialogs)result;
+            if (chatTsk == null)
+                chatTsk = result as TLDialogs;
             return chatTsk.Chats;
         }
 
@@ -325,12 +327,13 @@ namespace TLFunctionalityLib
                 }
 
                 // send message
-                await client.SendMessageAsync(new TLInputPeerUser()
+                await client.SendMessageAsync(new TLInputPeerUser
                 {
                     UserId = myContact.Id,
                     AccessHash = (long)myContact.AccessHash
                 }, message.Message);
                 return true;
+
             }
             catch (Exception e)
             {

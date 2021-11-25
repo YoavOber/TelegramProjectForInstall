@@ -409,11 +409,7 @@ namespace TelegramDeliverer.ViewModels
                     hssfwb = new XSSFWorkbook(file);
                     ISheet sheet = hssfwb.GetSheetAt(0);
                     IRow headerRow = sheet.GetRow(0);
-
                     IEnumerator rows = sheet.GetRowEnumerator();
-
-
-
                     if (headerRow.LastCellNum == 0)
                     {
                         // todo: handle empty/invalid spreadsheet. for now just throw exception.
